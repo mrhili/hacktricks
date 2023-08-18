@@ -110,7 +110,7 @@ Kon-Boot also performs the **StickyKeys** trick so you could press _**Shift**_ *
 
 #### **Rubber Ducky tutorials**
 
-* [Tutorial 1](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Tutorials)
+* [Tutorial 1](http://web.archive.org/web/20220706174914/https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Tutorials)
 * [Tutorial 2](https://blog.hartleybrody.com/rubber-ducky-guide/)
 
 #### **Teensyduino**
